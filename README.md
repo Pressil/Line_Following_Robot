@@ -29,12 +29,6 @@ This repository contains the hardware and software documentation for an autonomo
 | **N20 W420 small steel ball universal wheel** | <img src="images/mini wheel.jpg" alt="mini wheel" width="150"> |
 | **Acrylic chassis** | <img src="images/chasis.jpg" alt="chasis" width="150"> |
 
-## 📐 Diagrams
-### Schematic Diagram
-<p align="center">
-  <img src="images/schematic.jpg" alt="schematic" width="150">
-</p>
-
 ### Circuit Diagram
 <p align="center">
   <img src="images/circuit.jpg" alt="circuit" width="500">
@@ -66,7 +60,7 @@ This repository contains the hardware and software documentation for an autonomo
 
 ## 🔀 Code Flowchart
 <p align="center">
-  <img src="path/to/your/flowchart-image.jpg" alt="Code Flowchart">
+  <img src="path/to/your/flowchart.png" alt="Code Flowchart">
 </p>
 
 ## 🧪 Testing and Debugging

@@ -11,7 +11,7 @@ This repository contains the hardware and software documentation for an autonomo
   <i>The fully assembled and wired Line Tracing Robot prototype.</i>
 </p>
 
-**See it in action!** [🎥 Click here to view the working demonstration and live documentation](https://drive.google.com/drive/folders/1m4bYtQpVCanqK78G1XCWmGIgVv_psRLA?usp=sharing)
+**See it in action!** [🎥 Click here to view the working demonstration and live documentation](https://drive.google.com/file/d/17ZJ3su_4FuRy9KO2pvJTr8D6iY2bvKbZ/view?usp=sharing)
 
 ## 🛠️ Materials
 

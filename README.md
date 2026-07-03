@@ -58,11 +58,6 @@ This repository contains the hardware and software documentation for an autonomo
 | | OUT4 | A3 |
 | | OUT5 | A5 |
 
-## 🔀 Code Flowchart
-<p align="center">
-  <img src="path/to/your/flowchart.png" alt="Code Flowchart">
-</p>
-
 ## 🧪 Testing and Debugging
 
 ### A. Step-by-Step Testing Process

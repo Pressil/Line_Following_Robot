@@ -6,38 +6,38 @@ This repository contains the hardware and software documentation for an autonomo
 ## 🚀 Final Prototype & Demonstration
 
 <p align="center">
-  <img src="path/to/your/prototype-image.jpg" alt="Fully Assembled Line Tracing Robot">
+  <img src="images/prototype.jpg" alt="Prototype" width="500">
   <br>
   <i>The fully assembled and wired Line Tracing Robot prototype.</i>
 </p>
 
-**See it in action!** [🎥 Click here to view the working demonstration and live documentation](YOUR_LINK_HERE)
+**See it in action!** [🎥 Click here to view the working demonstration and live documentation](https://drive.google.com/drive/folders/1m4bYtQpVCanqK78G1XCWmGIgVv_psRLA?usp=sharing)
 
 ## 🛠️ Materials
 
 | Component | Image |
 | :--- | :--- |
-| **Arduino Uno Rev3** | <img src="path/to/arduino.jpg" alt="Arduino Uno" width="150"> |
-| **Jumper Wires** | <img src="path/to/wires.jpg" alt="Jumper Wires" width="150"> |
-| **5-way infrared proximity line tracker sensor module** | <img src="path/to/ir-sensor.jpg" alt="IR Sensor" width="150"> |
-| **L298N DC dual H-Bridge stepper motor driver board module** | <img src="path/to/l298n.jpg" alt="L298N" width="150"> |
-| **Rechargeable lithium battery 11.1V 2800mAh 30C with SM plug** | <img src="path/to/battery.jpg" alt="LiPo Battery" width="150"> |
-| **Micro metal DC gear motor 6V 500RPM JGA12-N20 (x2)** | <img src="path/to/motors.jpg" alt="DC Motors" width="150"> |
-| **USB Type A to Type B cable** | <img src="path/to/usb-cable.jpg" alt="USB Cable" width="150"> |
-| **IMAXRC B3 pro compact charger AC 2S 3S RC lipo battery adapter 11.1V** | <img src="path/to/charger.jpg" alt="Battery Charger" width="150"> |
-| **N20 mini wheel and bracket set** | <img src="path/to/wheels.jpg" alt="N20 Wheels" width="150"> |
-| **N20 W420 small steel ball universal wheel** | <img src="path/to/universal-wheel.jpg" alt="Universal Wheel" width="150"> |
-| **Acrylic chassis** | <img src="path/to/chassis.jpg" alt="Acrylic Chassis" width="150"> |
+| **Arduino Uno Rev3** | <img src="images/arduino.jpg" alt="Arduino Uno" width="150"> |
+| **Jumper Wires** | <img src="images/jumper wires.jpg" alt="Jumper Wires" width="150"> |
+| **5-way infrared proximity line tracker sensor module** | <img src="images/IR sensor.jpg" alt="IR sensor" width="150"> |
+| **L298N DC dual H-Bridge stepper motor driver board module** | <img src="images/L298N Module.jpg" alt="L298N Module" width="150"> |
+| **Rechargeable lithium battery 11.1V 2800mAh 30C with SM plug** | <img src="images/Battery.jpg" alt="Battery" width="150"> |
+| **Micro metal DC gear motor 6V 500RPM JGA12-N20 (x2)** | <img src="images/motor.jpg" alt="motor" width="150">|
+| **USB Type A to Type B cable** | <img src="images/cable wire.jpg" alt="cable wire" width="150"> |
+| **IMAXRC B3 pro compact charger AC 2S 3S RC lipo battery adapter 11.1V** | <img src="images/charger.jpg" alt="charger" width="150"> |
+| **N20 mini wheel and bracket set** | <img src="images/wheel.jpg" alt="wheel" width="150"> |
+| **N20 W420 small steel ball universal wheel** | <img src="images/mini wheel.jpg" alt="mini wheel" width="150"> |
+| **Acrylic chassis** | <img src="images/chasis.jpg" alt="chasis" width="150"> |
 
 ## 📐 Diagrams
 ### Schematic Diagram
 <p align="center">
-  <img src="path/to/your/schematic-diagram.jpg" alt="Schematic Diagram">
+  <img src="images/schematic.jpg" alt="schematic" width="150">
 </p>
 
 ### Circuit Diagram
 <p align="center">
-  <img src="path/to/your/circuit-diagram.jpg" alt="Circuit Diagram">
+  <img src="images/circuit.jpg" alt="circuit" width="500">
 </p>
 
 ## 🔌 Wiring Connections

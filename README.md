@@ -1,4 +1,4 @@
-# 🏎️ Line Tracing Robot
+# 🏎️ Line Following Robot
 
 ## 📖 Introduction
 This repository contains the hardware and software documentation for an autonomous Line Tracing Robot. Utilizing a 5-way infrared proximity sensor module and an Arduino Uno, the robot is designed to accurately detect and follow a predefined path. Driven by micro metal DC gear motors and controlled via an L298N motor driver, this project demonstrates foundational concepts in embedded systems, motor control, and sensor-based autonomous navigation.
